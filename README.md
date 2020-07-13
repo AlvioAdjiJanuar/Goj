@@ -1,0 +1,2 @@
+# Goj
+Buat gua
